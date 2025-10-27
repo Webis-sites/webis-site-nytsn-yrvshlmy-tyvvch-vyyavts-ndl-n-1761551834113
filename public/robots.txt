@@ -1,0 +1,7 @@
+
+    # robots.txt for ניצן ירושלמי תיווך וייעוץ נדל״ן 
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://ניצן-ירושלמי-תיווך-וייעוץ-נדל״ן-.com/sitemap.xml
