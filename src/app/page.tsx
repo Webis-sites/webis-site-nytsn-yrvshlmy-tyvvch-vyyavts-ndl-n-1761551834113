@@ -6,6 +6,7 @@ import Services from '@/components/Services';
 import PropertyShowcase from '@/components/PropertyShowcase';
 import About from '@/components/About';
 import WhyChooseUs from '@/components/WhyChooseUs';
+import Process from '@/components/Process';
 
 export default function HomePage() {
   return (
@@ -18,6 +19,7 @@ export default function HomePage() {
         <PropertyShowcase />
         <About />
         <WhyChooseUs />
+        <Process />
       </main>
     </>
   );
