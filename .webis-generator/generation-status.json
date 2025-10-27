@@ -1,11 +1,66 @@
 {
-  "timestamp": "2025-10-27T07:57:41.144Z",
+  "timestamp": "2025-10-27T07:58:52.021Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 9,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "Main navigation bar with business branding and RTL-aware navigation links"
+    },
+    {
+      "name": "Hero",
+      "type": "hero",
+      "status": "pending",
+      "description": "Hero section with compelling headline, description, and primary CTA for real estate services"
+    },
+    {
+      "name": "Services",
+      "type": "services",
+      "status": "pending",
+      "description": "Services section showcasing real estate offerings: sales, rentals, and consulting"
+    },
+    {
+      "name": "PropertyShowcase",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Featured properties showcase with images, details, and filtering options"
+    },
+    {
+      "name": "About",
+      "type": "about",
+      "status": "pending",
+      "description": "About section introducing Nitzan Yerushalmi and the business expertise"
+    },
+    {
+      "name": "WhyChooseUs",
+      "type": "features",
+      "status": "pending",
+      "description": "Why choose us section highlighting unique advantages and differentiators"
+    },
+    {
+      "name": "Process",
+      "type": "process",
+      "status": "pending",
+      "description": "Step-by-step process section explaining how the service works"
+    },
+    {
+      "name": "Contact",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact section with form and contact information"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with business information, links, and legal details"
+    }
+  ],
   "repoName": "webis-site-nytsn-yrvshlmy-tyvvch-vyyavts-ndl-n-1761551834113"
 }
