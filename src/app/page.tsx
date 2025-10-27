@@ -5,6 +5,7 @@ import Hero from '@/components/Hero';
 import Services from '@/components/Services';
 import PropertyShowcase from '@/components/PropertyShowcase';
 import About from '@/components/About';
+import WhyChooseUs from '@/components/WhyChooseUs';
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
         <Services />
         <PropertyShowcase />
         <About />
+        <WhyChooseUs />
       </main>
     </>
   );
