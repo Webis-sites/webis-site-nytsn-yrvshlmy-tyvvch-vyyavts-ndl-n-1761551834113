@@ -7,6 +7,7 @@ import PropertyShowcase from '@/components/PropertyShowcase';
 import About from '@/components/About';
 import WhyChooseUs from '@/components/WhyChooseUs';
 import Process from '@/components/Process';
+import Contact from '@/components/Contact';
 
 export default function HomePage() {
   return (
@@ -20,6 +21,7 @@ export default function HomePage() {
         <About />
         <WhyChooseUs />
         <Process />
+        <Contact />
       </main>
     </>
   );
