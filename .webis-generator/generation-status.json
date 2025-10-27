@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-10-27T08:08:58.263Z",
+  "projectDir": "ניצן-ירושלמי-תיווך-וייעוץ-נדל״ן-1834",
   "status": {
     "totalComponents": 9,
-    "completedComponents": 8,
+    "completedComponents": 9,
     "failedComponents": 0,
-    "progress": 89
+    "progress": 100
   },
   "components": [
     {
@@ -58,9 +58,14 @@
     {
       "name": "Footer",
       "type": "footer",
-      "status": "pending",
+      "status": "completed",
       "description": "Footer with business information, links, and legal details"
     }
   ],
-  "repoName": "webis-site-nytsn-yrvshlmy-tyvvch-vyyavts-ndl-n-1761551834113"
+  "tokenUsage": {
+    "totalInputTokens": 20216,
+    "totalOutputTokens": 26160,
+    "totalTokens": 46376,
+    "requests": 8
+  }
 }
