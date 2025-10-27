@@ -15,6 +15,9 @@
 
   --color-primary: #858585;
   --color-secondary: #ffab01;
+
+  --footer-bg-start: #4a4a4a;
+  --footer-bg-end: #3a3a3a;
 }
 
     html {
