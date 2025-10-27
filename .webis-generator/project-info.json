@@ -1,8 +1,35 @@
 {
   "projectName": "ניצן-ירושלמי-תיווך-וייעוץ-נדל״ן-1834",
-  "businessName": "ניצן ירושלמי תיווך וייעוץ נדל״ן ",
-  "created": "2025-10-27T07:57:14.218Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "businessName": "ניצן ירושלמי תיווך וייעוץ נדל״ן",
+  "description": "עסק נדל”ן שמתמחה בשיווק, מכירה והשכרה של נכסים.\nמציג דירות, מגרשים ופרויקטים חדשים בצורה ברורה ואמינה, ומחבר בין קונים, מוכרים ומשקיעים",
+  "created": "2025-10-27T07:57:41.146Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-nytsn-yrvshlmy-tyvvch-vyyavts-ndl-n-1761551834113",
+  "formData": {
+    "businessName": "ניצן ירושלמי תיווך וייעוץ נדל״ן ",
+    "businessType": "service",
+    "industry": "נדל״ן ",
+    "businessSize": "micro",
+    "description": "עסק נדל”ן שמתמחה בשיווק, מכירה והשכרה של נכסים.\nמציג דירות, מגרשים ופרויקטים חדשים בצורה ברורה ואמינה, ומחבר בין קונים, מוכרים ומשקיעים",
+    "language": "he",
+    "primaryColor": "#858585",
+    "secondaryColor": "#ffab01",
+    "typographyStyle": "classic",
+    "animationPreference": "moderate",
+    "headline": "ניצן ירושלמי ייעוץ נדל״ן ",
+    "descriptionText": "אתר נדל”ן שמציג נכסים למכירה ולהשכרה בצורה נוחה, עם תמונות, מחירים ופרטים ברורים לכל נכס",
+    "ctaText": "צרו קשר",
+    "formFields": "שם מלא, טלפון, מייל, קניה או השכרה",
+    "includeTestimonials": false,
+    "includeFAQ": false,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": true,
+    "needsBookingSystem": false,
+    "metaDescription": "אתר נדל”ן מתקדם למציאת דירות, בתים ופרויקטים למכירה או להשכרה בישראל – חיפוש חכם, תמונות איכותיות ופרטים מדויקים לכל נכס.",
+    "metaKeywords": "נדל”ן, דירות למכירה, דירות להשכרה, פרויקטים חדשים, נכסים בישראל, בתים למכירה, חיפוש נכסים, אתר נדל”ן, השקעות נדל”ן, סוכנות נדל”ן",
+    "designStyles": [
+      "glassmorphism"
+    ]
+  }
 }
