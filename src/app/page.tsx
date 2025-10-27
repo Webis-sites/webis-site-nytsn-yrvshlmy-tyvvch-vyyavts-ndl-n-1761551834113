@@ -8,6 +8,7 @@ import About from '@/components/About';
 import WhyChooseUs from '@/components/WhyChooseUs';
 import Process from '@/components/Process';
 import Contact from '@/components/Contact';
+import Footer from '@/components/Footer';
 
 export default function HomePage() {
   return (
@@ -22,6 +23,7 @@ export default function HomePage() {
         <WhyChooseUs />
         <Process />
         <Contact />
+        <Footer />
       </main>
     </>
   );
